@@ -1,0 +1,9 @@
+id,Abkürzung von Name,,
+person,Name der Person,,
+partei,zugehörige Partei,,
+sector,1 = Politik,2 = Journalismus,3 = Wissenschaftler
+country,Geburtsland,,
+type,1 = Person,2 = Folge,3 = Partei
+,,,
+edgelist,,,
+relationship,1 = ist in der Partei,2 = ist in der Folge,3 = sind zusammen in einer Partei
